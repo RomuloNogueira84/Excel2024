@@ -1,4 +1,4 @@
-# Meu Roteiro de Estudo: Excel na Alura (2024)
+# Meu Roteiro de Estudo: Excel (2024)
 ![Green Modern Inspiration Email Header](https://github.com/user-attachments/assets/92a73a9e-b56c-467f-be1f-b1275eda3bc9)
 
 ## Introdução ao Excel
