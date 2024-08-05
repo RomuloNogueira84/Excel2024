@@ -25,4 +25,4 @@
 - Salvar e compartilhar minhas pastas de trabalho online.
 - Colaborar com outras pessoas usando ferramentas na nuvem.
 
-Lembre-se de praticar bastante e aplicar o conhecimento em projetos reais. Boa jornada de aprendizado! 🚀
+
